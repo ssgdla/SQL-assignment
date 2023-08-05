@@ -1,0 +1,1 @@
+alter table tblsubscriptioninfo add INDEX custom_id (customer_id);

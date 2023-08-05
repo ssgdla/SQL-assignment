@@ -1,0 +1,1 @@
+update tblSubscriptionInfo set customer_contact_phone = '123456789' where customer_id = 101;
